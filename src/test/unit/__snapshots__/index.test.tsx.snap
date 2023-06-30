@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> Home text가 보여진다. 1`] = `
+<div>
+  <div>
+    Home
+  </div>
+</div>
+`;
